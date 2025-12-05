@@ -1,0 +1,45 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pycache/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ----------------------------
+# Virtual Environments
+# ----------------------------
+venv/
+.env/
+.venv/
+
+# ----------------------------
+# Jupyter Notebook
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# Data files
+# ----------------------------
+data/raw/
+data/processed/
+*.csv
+*.json
+*.xlsx
+*.db
+*.sqlite
+
+# ----------------------------
+# Logs and temporary files
+# ----------------------------
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store

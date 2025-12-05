@@ -1,0 +1,36 @@
+# Core
+python-dateutil
+pandas>=1.5
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+
+# NLP & transformers
+spacy
+transformers
+sentence-transformers
+nltk
+
+# Deep learning
+torch
+torchvision
+
+# OCR & CV
+pillow
+opencv-python
+pytesseract
+
+# DB / API / utils
+sqlalchemy
+sqlite3-binary
+pyyaml
+python-dotenv
+
+# Deployment / UI
+streamlit
+
+# Optional (if using OpenAI)
+openai
+tqdm
